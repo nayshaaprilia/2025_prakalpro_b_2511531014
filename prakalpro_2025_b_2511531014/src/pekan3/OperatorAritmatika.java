@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 public class OperatorAritmatika {
 
-	public static void main(String[] args) {
+	public static void main(String[] args) {//
 		// TODO Auto-generated method stub
 		int A1;
 		int A2;
