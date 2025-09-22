@@ -13,9 +13,9 @@ public class ContohChar {
 		// Menampilkan nilai variabel char
 		System.out.println("Contoh variabel char:");
 		System.out.println("Huruf pertama: " + huruf1);
-		System.out.println("Huruf kedua"+ huruf2);
-		System.out.println("Angka"+ angka);
-		System.out.println("Simbol"+ simbol);
+		System.out.println("Huruf kedua: " + huruf2);
+		System.out.println("Angka: " + angka);
+		System.out.println("Simbol: " + simbol);
 		
 		// Operasi dengan char (berdasarkan kode Unicode/ASCII)
 		char huruf3 = (char) (huruf1 + 1); // A (65) + 1 = B (66)
