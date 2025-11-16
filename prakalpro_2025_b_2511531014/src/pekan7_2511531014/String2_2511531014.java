@@ -21,7 +21,7 @@ public class String2_2511531014 {
         String c = a + b;
         System.out.println("String a + String b = " + c);
 
-//        String w = a + y;
-//        System.out.println("String a + integer y = " + w);
-        }
+    String w = a + y;
+    System.out.println("String a + integer y =" + w);
+    }
 }
